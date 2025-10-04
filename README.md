@@ -18,6 +18,9 @@ All data here is **synthetic**, and all names or references have been anonymized
 This demo automates the end-to-end process of turning raw support ticket data into actionable insights.  
 It runs entirely inside Google Sheets via Google Apps Script — no servers, no extra tooling, just automation and AI integration.
 
+📄 **Live Demo Sheet:**  
+👉 [Open the AI Trend Reporting Demo Sheet](https://docs.google.com/spreadsheets/d/1EAt_su3pJSGNPNJRGPI2qYGIKIHx88k7z81xlGLh0v8/edit?usp=sharing)
+
 It handles:
 - Data parsing, validation, and filtering  
 - AI-based classification for Issue Types and Root Causes  
